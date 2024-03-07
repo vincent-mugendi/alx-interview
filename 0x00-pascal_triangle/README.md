@@ -1,0 +1,2 @@
+# Pascal's Triangle Python Project
+- This directory contains python coe that implements the Pascal's Triangle applying both mathematical understanding and programing skills to develop an efficient and effective solution
